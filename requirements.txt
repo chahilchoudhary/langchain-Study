@@ -1,0 +1,24 @@
+# ---- LangChain core ----
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ---- Model integrations ----
+langchain-openai          # OpenAI (GPT, embeddings)
+openai
+langchain-anthropic       # Anthropic (Claude)
+langchain-google-genai    # Google Gemini
+google-generativeai
+langchain-huggingface     # Hugging Face
+huggingface-hub
+transformers
+sentence-transformers
+
+# ---- Environment variable management ----
+python-dotenv
+
+# ---- ML utilities ----
+numpy
+pandas
+scikit-learn
